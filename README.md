@@ -20,3 +20,5 @@ In order to use ROOT in your notebooks in jupyter at [LMU jupyterhub](https://ju
   ```
 
 In both cases select environment  **`python/3.11-2023.09`** when you start on **jupyterhub**
+
+General instructions how to login to LMU jupyterhub can be found in [Google doc](https://docs.google.com/document/d/1yTo_ItyFXcBdq8v4gcUSXX5NxtLefXQRUdgP-amxkHs/edit?usp=sharing) 
